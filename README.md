@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="desenho" src="https://www.facebook.com/photo/?fbid=4713620975434174&set=a.1859881097474857" height="200" width="150">
+  <img align="right" alt="desenho" src="https://www.facebook.com/MET-FLIX-114553386904744/photos/pcb.375546387472108/375546337472113/.svg" height="200" width="150">
 </div>
  <p>
    <div>
