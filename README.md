@@ -2,8 +2,8 @@
 
 
 - 🌱 Estou estudando Desenvolvimento de sistemas
-- 👯 Estou a procura de uma oportunidade
-- ⚡ Fun fact: Gosto muito de tecnologias, estou me esforçando e aprendo muito. Gosto de tocar, ler e cozinhar
+- 👯 Trabalho atualmente na SIS - projetos,java
+- ⚡ Fun fact: Gosto muito de tecnologias, estou me esforçando e aprendo muito. Gosto de tocar, adestrar cães...
  <div>
   <a href="www.linkedin.com/in/abner-machado-48360019b">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lagarttixa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
