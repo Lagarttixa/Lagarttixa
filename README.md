@@ -17,7 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="right" alt="desenho" src="https://www.facebook.com/MET-FLIX-114553386904744/photos/pcb.375546387472108/375546337472113/.svg" height="200" width="150">
+  <img align="right" alt="desenho" src="https://midias.agazeta.com.br/2019/10/03/7ua0f0fubuw.png" height="200" width="150">
 </div>
  <p>
    <div>
