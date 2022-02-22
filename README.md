@@ -17,7 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="right" alt="desenho" src="https://midias.agazeta.com.br/2019/10/03/7ua0f0fubuw.png" height="150" width="120">
+  <img align="right" alt="desenho" src="https://midias.agazeta.com.br/2019/10/03/7ua0f0fubuw.png" height="150" width="160">
 </div>
  <p>
    <div>
