@@ -1,8 +1,8 @@
-### Olá, eu sou Abner Machado👋
+### Bem-Vindo ao meus repositórios GIT, sou Abner Machado👋
 
 
-- 🌱 Estou estudando Desenvolvimento de sistemas
-- 👯 Trabalho atualmente na SIS - projetos,java
+- 🌱 Estou me formando em Desenvolvimento de sistemas
+- 👯 Trabalho atualmente na SIS usando tecnologia JAVA
 - ⚡ Fun fact: Gosto muito de tecnologias, estou me esforçando e aprendo muito. Gosto de tocar, adestrar cães...
  <div>
   <a href="www.linkedin.com/in/abner-machado-48360019b">
@@ -17,8 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     
   <img align="right" alt="desenho" src="https://midias.agazeta.com.br/2019/10/03/7ua0f0fubuw.png" height="150" width="160">
 </div>
