@@ -2,7 +2,7 @@
 
 
 - 🌱 Estou me formando em Desenvolvimento de sistemas
-- 👯 Trabalho atualmente na SIS usando tecnologia JAVA
+- 👯 Trabalho atualmente na SIS usando tecnologia JAVA e ANGULAR
 - ⚡ Fun fact: Gosto muito de tecnologias, estou me esforçando e aprendo muito. Gosto de tocar, adestrar cães...
  <div>
   <a href="www.linkedin.com/in/abner-machado-48360019b">
