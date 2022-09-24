@@ -19,15 +19,14 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     
-  <img align="right" alt="desenho" src="https://midias.agazeta.com.br/2019/10/03/7ua0f0fubuw.png" height="150" width="160">
+  <img align="right" alt="desenho" src="https://www.1zoom.me/big2/770/289082-alexfas01.jpg" height="130" width="200">
 </div>
  <p>
    <div>
       <a href = "mailto:abnerrm.99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/abner-machado-48360019b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
- 
- ![Snake animation](https://github.com/Lagarttixa/Lagarttixa/blob/output/github-contribution-grid-snake.svg)
+
    
 </div>
   
